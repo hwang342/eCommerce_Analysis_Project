@@ -21,8 +21,8 @@ WHERE ws.created_at BETWEEN '2012-04-01' AND '2013-04-05'
 GROUP BY 1,2
 
 /*
-The data result since 2013 onfirms that our conversion rate and revenue per
-session are improving over time, which is great. But we need to do some other
+The data result since 2013 confirms that our conversion rate and revenue per
+session have improved over time, which is great. But we need to do another
 analysis to understand if the growth since January is due to our new product 
 launch or just a continuation of our overall business improvements.
 */
